@@ -1,26 +1,27 @@
-CDP Chatbot Web Application
-#Project Overview
-This web application is a chatbot designed to help users with questions about Customer Data Platforms (CDPs) like Segment, mParticle, Lytics, and Zeotap. It retrieves answers from a database based on user queries and provides instructions and insights about CDPs.
+#CDP Chatbot Web Application
+##Project Overview
+  This web application is a chatbot designed to help users with questions about Customer Data Platforms (CDPs) like Segment, mParticle, Lytics, and Zeotap. It retrieves answers from a database based on user 
+  queries and provides instructions and insights about CDPs.
 
-#Features
-1.Dynamic Question and Answer Interaction:
-  Users can ask questions, and the chatbot fetches the corresponding answers from the database.
-2.Database-Driven Responses:
-  All questions and answers are stored in a MySQL database for easy retrieval.
-3.User-Friendly Interface:
-  Clean UI to display user queries and chatbot responses seamlessly.
+##Features
+1. Dynamic Question and Answer Interaction:
+   Users can ask questions, and the chatbot fetches the corresponding answers from the database.
+2. Database-Driven Responses:
+   All questions and answers are stored in a MySQL database for easy retrieval.
+3. User-Friendly Interface:
+   Clean UI to display user queries and chatbot responses seamlessly.
 
-#Bonus Features
--Authentication:
- Login and register functionality for personalized chatbot interactions.
+##Bonus Features
+- Authentication:
+  Login and register functionality for personalized chatbot interactions.
 
-#Technologies Used
-1.Frontend:
-HTML, CSS, JavaScript for user interface and interactions.
-2.Backend:
-PHP for processing user queries and database integration.
-3.Database:
-MySQL for storing question-answer pairs and user data.
+##Technologies Used
+1. Frontend:
+   HTML, CSS, JavaScript for user interface and interactions.
+2. Backend:
+   PHP for processing user queries and database integration.
+3. Database:
+   MySQL for storing question-answer pairs and user data.
 
 ## How to Use
 1. Clone the repository or download the project files.
